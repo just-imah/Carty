@@ -1,0 +1,44 @@
+.hero{
+    background-image: url(/assets/slider1.jpg);
+    object-fit: cover;
+    background-size: cover;
+}
+.hero1,
+.hero2{
+    height: 35rem;
+}
+.hero2 img{
+    width: 27rem;
+    height: 33rem;
+    object-fit: cover;
+    background-size: cover;
+    margin-left: -20rem;
+    margin-top: 1rem;
+}
+.hero-content{
+    margin-top: 9rem;
+    margin-left: -25rem!important;
+}
+.hero-content h1,
+.hero-button,
+.semi-hero{
+      font-family: 'Moon Dance', cursive;
+     font-weight: bold;
+}
+
+.shop-options{
+    background-color: #212121;
+    box-shadow: 1px 1px 8px 2px #37393a;
+}
+.fa-globe-africa,
+.fa-check-circle,
+.fa-bell,
+.fa-clock{
+    font-size: 20px;
+    color: black;
+    border: 1px solid black;
+    border-radius: 50%;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+

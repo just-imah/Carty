@@ -1,0 +1,53 @@
+{
+  
+  "watches": [
+    {
+      "title": "Cartier Citizen",
+      "price": "200",
+      "image": "/assets/cartierF.jpg",
+      "desc": " lorem ipsum et "
+    },
+    {
+      "title": "Movado Omega",
+      "price": "200",
+      "image": "/assets/movado.jpg",
+      "desc": " lorem ipsum et "
+    },
+    {
+      "title": "Cartier Citizen",
+      "price": "200",
+      "image": "/assets/cartierF.jpg",
+      "desc": " lorem ipsum et "
+    },
+    {
+      "title": "Sport Luxury",
+      "price": "200",
+      "image": "/assets/movado.jpg",
+      "desc": " lorem ipsum et "
+    },
+    {
+      "title": "Cartier Citizen",
+      "price": "200",
+      "image": "/assets/cartierF.jpg",
+      "desc": " lorem ipsum et "
+    },
+    {
+      "title": "Movado Omega",
+      "price": "200",
+      "image": "/assets/movado.jpg",
+      "desc": " lorem ipsum et "
+    },
+    {
+      "title": "Cartier Citizen",
+      "price": "200",
+      "image": "/assets/cartierF.jpg",
+      "desc": " lorem ipsum et "
+    },
+    {
+      "title": "Sport Luxury",
+      "price": "200",
+      "image": "/assets/movado.jpg",
+      "desc": " lorem ipsum et "
+    }
+  ]
+}

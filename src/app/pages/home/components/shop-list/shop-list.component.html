@@ -1,0 +1,31 @@
+<section class="shoplist">
+  <div class="container mt-5">
+    <div class="row">
+      <ng-container *ngFor="let item of watches">
+        <!-- loop through productLidst using ngfor -->
+        <div class="card col-md-3 products text-center text-light">
+          <img src="{{ item.image }}" alt="" />
+          <p>{{ item.title }}</p>
+          <h5 class="desc">{{ item.desc }}</h5>
+          <hr>
+          <p><strong>${{ item.price }}</strong></p>
+          <button class="btn btn-primary">Add to Cart</button>
+        </div>        
+      </ng-container>
+  
+      <div class="overlay text-light" *ngFor="let item of watches">
+        <div class="card products" style="width: 18rem;">
+          <img src="assets/cartier.jpg" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">{{item.title}}</h5>
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <a href="#" class="btn btn-primary">Go somewhere</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<app-aboutpage></app-aboutpage>
+
